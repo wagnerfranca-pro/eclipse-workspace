@@ -1,0 +1,214 @@
+!SESSION 2026-02-14 11:24:01.619 -----------------------------------------------
+eclipse.buildId=4.38.0.20251204-0849
+java.version=25.0.2
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-14 11:24:16.001
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-14 11:24:26.182
+!MESSAGE Logback config file: /home/wagner/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
+!SESSION 2026-02-14 11:28:03.278 -----------------------------------------------
+eclipse.buildId=4.39.0.20260129-0236
+java.version=25.0.2
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-14 11:28:29.467
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-14 11:28:37.909
+!MESSAGE Logback config file: /home/wagner/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
+!SESSION 2026-02-14 11:32:43.191 -----------------------------------------------
+eclipse.buildId=4.39.0.20260129-0236
+java.version=25.0.2
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-14 11:32:47.732
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-14 11:32:50.105
+!MESSAGE Logback config file: /home/wagner/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
+!SESSION 2026-02-14 11:34:07.677 -----------------------------------------------
+eclipse.buildId=4.39.0.20260129-0236
+java.version=25.0.2
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-14 11:34:12.280
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-14 11:34:14.680
+!MESSAGE Logback config file: /home/wagner/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
+!SESSION 2026-02-14 11:35:08.732 -----------------------------------------------
+eclipse.buildId=4.39.0.20260129-0236
+java.version=25.0.2
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-14 11:35:13.385
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-14 11:35:15.860
+!MESSAGE Logback config file: /home/wagner/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
+!SESSION 2026-02-14 11:46:42.285 -----------------------------------------------
+eclipse.buildId=4.39.0.20260129-0236
+java.version=25.0.2
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-14 11:46:46.888
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-14 11:46:49.576
+!MESSAGE Logback config file: /home/wagner/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
+!SESSION 2026-02-17 12:45:33.604 -----------------------------------------------
+eclipse.buildId=4.39.0.20260129-0236
+java.version=25.0.2
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-17 12:45:39.660
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-17 12:45:42.310
+!MESSAGE Logback config file: /home/wagner/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
+!SESSION 2026-02-24 07:54:56.216 -----------------------------------------------
+eclipse.buildId=4.39.0.20260129-0236
+java.version=25.0.2
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-24 07:55:02.537
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-24 07:55:06.081
+!MESSAGE Logback config file: /home/wagner/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
+
+!ENTRY org.eclipse.ui 4 4 2026-02-24 07:55:36.467
+!MESSAGE Conflicting handlers for org.eclipse.ui.navigate.backwardHistory: {ActionHandler(org.eclipse.ui.internal.NavigationHistoryAction@7bf56370)} vs {ActionHandler(org.eclipse.ui.internal.dialogs.PreferencePageHistory$1@d278065)} in: PartImpl (org.eclipse.oomph.setup.presentation.NotificationView:ID1) Context
+!STACK 0
+java.lang.IllegalStateException: Conflicting handlers: {[ActionHandler(org.eclipse.ui.internal.NavigationHistoryAction@7bf56370),  for 'org.eclipse.ui.navigate.backwardHistory',  in TrimmedWindowImpl (IDEWindow) Context, activeWhen=AndExpression [children=[ActiveShellExpression(Shell {eclipse-workspace - Eclipse IDE} [layout=org.eclipse.e4.ui.workbench.renderers.swt.TrimmedPartLayout@39da5edb]), WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@42bbd21c)]], active=true, sourcePriority=17408, participating=true]} vs {[ActionHandler(org.eclipse.ui.internal.dialogs.PreferencePageHistory$1@d278065),  for 'org.eclipse.ui.navigate.backwardHistory',  in WorkbenchContext, activeWhen=ActiveShellExpression(Shell {Preferences} [layout=GridLayout {numColumns=5 verticalSpacing=5}]), active=true, sourcePriority=17408, participating=true]} in: PartImpl (org.eclipse.oomph.setup.presentation.NotificationView:ID1) Context
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService$HandlerSelectionFunction.compute(LegacyHandlerService.java:144)
+	at org.eclipse.e4.core.internal.contexts.ValueComputation.get(ValueComputation.java:72)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.internalGet(EclipseContext.java:276)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.internalGet(EclipseContext.java:287)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.internalGet(EclipseContext.java:287)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.get(EclipseContext.java:239)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.lookUpHandler(HandlerServiceImpl.java:99)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.handlerChanged(E4HandlerProxy.java:115)
+	at org.eclipse.core.commands.AbstractHandler.fireHandlerChanged(AbstractHandler.java:77)
+	at org.eclipse.jface.commands.ActionHandler.lambda$0(ActionHandler.java:84)
+	at org.eclipse.jface.action.AbstractAction.firePropertyChange(AbstractAction.java:52)
+	at org.eclipse.jface.action.AbstractAction.firePropertyChange(AbstractAction.java:75)
+	at org.eclipse.jface.action.Action.setToolTipText(Action.java:635)
+	at org.eclipse.ui.internal.dialogs.PreferencePageHistory$1.isEnabled(PreferencePageHistory.java:227)
+	at org.eclipse.jface.action.ActionContributionItem.updateToolItem(ActionContributionItem.java:805)
+	at org.eclipse.jface.action.ActionContributionItem.update(ActionContributionItem.java:740)
+	at org.eclipse.ui.internal.dialogs.PreferencePageHistory.updateHistoryControls(PreferencePageHistory.java:136)
+	at org.eclipse.ui.internal.dialogs.PreferencePageHistory.addHistoryEntry(PreferencePageHistory.java:112)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:618)
+	at org.eclipse.jface.preference.PreferenceDialog$5.lambda$0(PreferenceDialog.java:660)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.jface.preference.PreferenceDialog$5.selectionChanged(PreferenceDialog.java:657)
+	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:822)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:169)
+	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:819)
+	at org.eclipse.jface.viewers.ColumnViewer.firePostSelectionChanged(ColumnViewer.java:1054)
+	at org.eclipse.jface.viewers.StructuredViewer.handlePostSelect(StructuredViewer.java:1188)
+	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:83)
+	at org.eclipse.jface.util.OpenStrategy.firePostSelectionEvent(OpenStrategy.java:283)
+	at org.eclipse.jface.util.OpenStrategy$1.lambda$1(OpenStrategy.java:437)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:5034)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4499)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:819)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.eclipse.ui.internal.OpenPreferencesAction.run(OpenPreferencesAction.java:64)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:581)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:415)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5844)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1656)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:5059)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4496)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1051)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:684)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:583)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:185)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:219)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:615)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:563)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1415)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1387)
+!SESSION 2026-02-24 07:55:51.973 -----------------------------------------------
+eclipse.buildId=4.39.0.20260129-0236
+java.version=25.0.2
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-24 07:55:56.552
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-24 07:55:58.986
+!MESSAGE Logback config file: /home/wagner/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
+!SESSION 2026-02-24 07:58:21.972 -----------------------------------------------
+eclipse.buildId=4.39.0.20260219-0754
+java.version=25.0.2
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-24 07:58:37.552
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-24 07:58:43.590
+!MESSAGE Logback config file: /home/wagner/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
+!SESSION 2026-02-24 08:39:04.213 -----------------------------------------------
+eclipse.buildId=4.39.0.20260219-0754
+java.version=25.0.2
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-24 08:39:13.774
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-24 08:39:17.423
+!MESSAGE Logback config file: /home/wagner/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
