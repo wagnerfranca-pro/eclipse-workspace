@@ -6,6 +6,12 @@ public class Product {
 	public double price;
 	public int quantity;
 
+	public Product(String name, double price, int quantitiy) {
+		this.name = name;
+		this.price = price;
+		this.quantity = quantitiy;
+	}
+
 	public double totalValueInStock() {
 		return price * quantity;
 	}
@@ -19,13 +25,8 @@ public class Product {
 	}
 
 	public String toString() {
-		return name
-				+ ", $"
-				+ String.format("%.2f", price)
-				+ ", "
-				+ quantity
-				+ " units, Total: $"
+		return name + ", $ " + String.format("%.2f", price) + ", " + quantity + " units, Total: $ "
 				+ String.format("%.2f", totalValueInStock());
-				
+
 	}
 }
