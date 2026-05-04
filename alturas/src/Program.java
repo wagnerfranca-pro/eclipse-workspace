@@ -7,41 +7,47 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 
-		System.out.printf("Quantas pessoas serao digitadas? ");
+		System.out.print("Quantas pessoas serao digitadas? ");
 		int n = sc.nextInt();
-		int[] vet = new int[n];
+
 		String[] nome = new String[n];
 		int[] idade = new int[n];
 		double[] altura = new double[n];
 
-		for (int i = 1; i <= vet.length; i++) {
-			System.out.println("Dados da " + i + "a pessoa:");
-			System.out.printf("Nome: ");
-			sc.nextLine();
-			nome[i] = sc.nextLine();
-			System.out.printf("Idade: ");
+		for (int i = 0; i < n; i++) {
+			System.out.println("Dados da " + (i + 1) + "a pessoa:");
+			System.out.print("Nome: ");
+			nome[i] = sc.next();
+			System.out.print("Idade: ");
 			idade[i] = sc.nextInt();
-			System.out.printf("Altura: ");
+			System.out.print("Altura: ");
 			altura[i] = sc.nextDouble();
 		}
 
-		double media = 0;
-		for (int i = 1; i <= vet.length; i++) {
-			media = altura[i] / vet.length;
+		double soma = 0;
+		for (int i = 0; i < n; i++) {
+			soma = soma + altura[i];
 		}
-		System.out.printf("Altura media: %.2f", media);
 
-		double percentual = 0;
-		double total = 0;
-		for (int i = 1; i <= vet.length; i++) {
+		double mediaAlturas = soma / n;
+		System.out.println();
+		System.out.printf("Altura media: %.2f%n", mediaAlturas);
+
+		int cont = 0;
+		for (int i = 0; i < n; i++) {
 			if (idade[i] < 16) {
-				percentual = idade[i];
+				cont += 1;
 			}
 		}
 
-		total = (percentual / 100) * percentual;
-		System.out.printf("Pessoas com menos de 16 anos: %.1f", total, "%");
-		System.out.println(nome);
+		double percent = cont * 100.0 / n;
+		System.out.printf("Pessoas com menos de 16 anos: %.1f%%%n", percent);
+
+		for (int i = 0; i < n; i++) {
+			if (idade[i] < 16) {
+				System.out.println(nome[i]);
+			}
+		}
 
 		sc.close();
 	}
