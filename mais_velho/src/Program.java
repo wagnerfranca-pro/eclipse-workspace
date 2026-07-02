@@ -17,7 +17,7 @@ public class Program {
 		int mais_velho = idade[0];
 		String maisVelho = null;
 
-		for (int i = 0; i < idade.length; i++) {
+		for (int i = 0; i < n; i++) {
 			System.out.println("Dados da " + (i + 1) + "ª pessoa");
 			System.out.print("Nome: ");
 			sc.nextLine();
