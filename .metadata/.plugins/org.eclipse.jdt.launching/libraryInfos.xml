@@ -14,5 +14,5 @@
     </libraryInfo>
     <libraryInfo home="/opt/jdk-25.0.2+10" version="25.0.2"/>
     <libraryInfo home="/home/dev/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_25.0.3.v20260502-0818/jre" version="25.0.3"/>
-    <libraryInfo home="/usr/lib/jvm/java-21-openjdk-amd64" version="21.0.11"/>
+    <libraryInfo home="/usr/lib/jvm/java-21-openjdk-amd64" version="21.0.12"/>
 </libraryInfos>
