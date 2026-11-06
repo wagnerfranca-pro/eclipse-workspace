@@ -50,11 +50,11 @@ public class Worker {
 		this.baseSalary = baseSalary;
 	}
 
-	public Department getDepartament() {
+	public Department getDepartment() {
 		return department;
 	}
 
-	public void setDepartament(Department department) {
+	public void setDepartment(Department department) {
 		this.department = department;
 	}
 
@@ -78,7 +78,7 @@ public class Worker {
 			int c_year = cal.get(Calendar.YEAR);
 			int c_month = 1 + cal.get(Calendar.MONTH);
 			if (year == c_year && month == c_month) { 
-				sum += c.totalValue()			;
+				sum += c.totalValue();
 			}
 		}
 		return sum;
